@@ -1,5 +1,5 @@
 # Python-Basics
-Review of simple python functions
+Review of simple python functions.
 
 Q1. Write a program that prompts the user to enter a password then prints the length of the password.
 
